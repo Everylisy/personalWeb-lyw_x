@@ -57,7 +57,7 @@ content4.addEventListener("mouseover", textChange7);
 content4.addEventListener("mouseout", textChange8);
 
 // 음악
-const audio = new Audio('Late.mp3');
+const audio = new Audio('COLDE$T_ERROR.mp3');
 
 // 종료되면 다시 재생
 audio.addEventListener('ended', function() { 
