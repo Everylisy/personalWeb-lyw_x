@@ -1,0 +1,212 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+html,body {
+    font-family: 'Montserrat', sans-serif;
+    /* background-color: #F4F2F3; */
+    background-color: #000000;
+    margin-left: 25px;
+    overflow-x: hidden;
+    height: 2300px;
+}
+
+a {
+    text-decoration: none;
+    color: #D6D6D6;
+}
+
+li {
+    list-style: none;
+    font-size: 40px;
+    padding: 15px 15px;
+    color: #D6D6D6;
+}
+
+.nav {
+    position: relative;
+    bottom: 355px;
+}
+
+h1 {
+    font-size: 140px;
+    position: relative;
+    top: 60px;
+    left: 450px;
+    color: #D6D6D6;
+}
+
+h2 {
+    font-size: 20px;
+    position: relative;
+    bottom: 5px;
+    color: #D6D6D6;
+}
+input {
+    cursor: pointer;
+    color: #D6D6D6;
+}
+p {
+    color: #D6D6D6;
+}
+.music {
+    float: right;
+    position: relative;
+    right: 40px;
+    bottom: 45px;
+}
+
+.btn1, 
+.btn2 {
+    border: 1px solid #D6D6D6;
+    border-radius: 10px;
+    background: none;
+    font-family: 'Montserrat', sans-serif;
+    transition: background-color 0.2s ease-out;
+}
+
+.btn1:hover {
+    background-color: #D6D6D6;
+    transition: background-color 0.2s ease-in;
+    color: white;
+} 
+.btn2:hover{
+    background-color: #D6D6D6;
+    transition: background-color 0.2s ease-in;
+    color: white;
+}
+
+.line {
+	height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: 5px;
+}
+.line2 {
+    height: 1px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: 210px;
+}
+
+.line3 {
+    height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: 110px;
+}
+
+.line4 {
+    height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+}
+
+.line5 {
+    height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: -120px;
+}
+
+.line6 {
+    height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: -240px;
+}
+
+.line7 {
+    height: 0.5px;
+	background: #D6D6D6;
+    position: relative;
+    margin: auto;
+    right: 40px;
+    bottom: -360px;
+}
+
+.whitespace {
+	width: 100%;
+	height: 80px;
+}
+
+.aboutMe {
+    position: relative;
+    bottom: 217px;
+    font-family: 'Jeju Myeongjo', serif;
+    color: #D6D6D6;
+}
+
+.aboutMeNum {
+    float: right;
+    position: relative;
+    bottom: 237px;
+    right: 40px;
+    font-family: 'Jeju Myeongjo', serif;
+}
+
+.aboutText {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Jeju Myeongjo', serif;
+    line-height: 50px;
+    position: relative;
+    bottom: 170px;
+    margin: 0;
+
+}
+
+.mainContents {
+    position: relative;
+    bottom: 98px;
+    font-family: 'Jeju Myeongjo', serif;
+}
+
+.mainContentsNum {
+    position: relative;
+    left: 1390px;
+    bottom: 118px;
+    font-family: 'Jeju Myeongjo', serif;
+}
+
+.content1 {
+    position: relative;
+    bottom: 55px;
+    cursor: pointer;
+}
+
+.content2 {
+    position: relative;
+    bottom: -60px;
+    cursor: pointer;
+}
+
+.content3 {
+    position: relative;
+    bottom: -180px;
+    cursor: pointer;
+}
+
+.content4 {
+    position: relative;
+    bottom: -300px;
+    cursor: pointer;
+}
+
+.content1,
+.content2,
+.content3,
+.content4 {
+    font-family: 'Jeju Myeongjo', serif;
+    font-size: 85px;
+    color: #D6D6D6;
+}
